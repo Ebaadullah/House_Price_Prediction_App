@@ -1,6 +1,6 @@
-datetime
-sklearn
-LinearRegression
+streamlit
 pandas
 numpy
-pickle
+scikit-learn
+matplotlib
+seaborn
